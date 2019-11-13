@@ -9,4 +9,4 @@ spec:
   - route:
     - destination:
         host: details
-        subset: v1
+        subset: v2
